@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-09-28` **[compozy/compozy](https://github.com/compozy/compozy)** — [A Cursor ACP `session/new` that never answers leaves the session prompting indefinitely, and `…](https://github.com/compozy/compozy/issues/682) <sub>issue, open</sub>
-- `2026-09-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [The generated desktop entry cannot act as the compozyos:// handler, and deleting it makes the…](https://github.com/compozy/compozy/issues/666) <sub>issue, open</sub>
-- `2026-09-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [An update operation past its deadline is never reaped, and --cancel refuses it because it thin…](https://github.com/compozy/compozy/issues/665) <sub>issue, open</sub>
+- `2026-09-28` **[compozy/compozy](https://github.com/compozy/compozy)** — [A Cursor ACP `session/new` that never answers leaves the session prompting indefinitely, and `…](https://github.com/compozy/compozy/issues/682) <sub>issue, closed</sub>
+- `2026-09-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [The generated desktop entry cannot act as the compozyos:// handler, and deleting it makes the…](https://github.com/compozy/compozy/issues/666) <sub>issue, closed</sub>
+- `2026-09-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [An update operation past its deadline is never reaped, and --cancel refuses it because it thin…](https://github.com/compozy/compozy/issues/665) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
