@@ -18,8 +18,8 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-10-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [The desktop spellchecker underlines misspelled words but offers no suggestions or language cho…](https://github.com/compozy/compozy/issues/699) <sub>issue, open</sub>
-- `2026-10-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [Right-clicking in the desktop app opens no menu, because the product window never handles Elec…](https://github.com/compozy/compozy/issues/698) <sub>issue, open</sub>
+- `2026-10-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [The desktop spellchecker underlines misspelled words but offers no suggestions or language cho…](https://github.com/compozy/compozy/issues/699) <sub>issue, closed</sub>
+- `2026-10-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [Right-clicking in the desktop app opens no menu, because the product window never handles Elec…](https://github.com/compozy/compozy/issues/698) <sub>issue, closed</sub>
 - `2026-10-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [Agent slash commands such as `/compact` reach Claude as ordinary text, because the daemon prep…](https://github.com/compozy/compozy/issues/693) <sub>issue, open</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
