@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
+- `2026-10-24` **[compozy/compozy](https://github.com/compozy/compozy)** — [The Terminal shell inherits the AppImage runtime's ARGV0 and LD_LIBRARY_PATH, so mise and othe…](https://github.com/compozy/compozy/issues/945) <sub>issue, open</sub>
 - `2026-10-19` **[compozy/compozy](https://github.com/compozy/compozy)** — [Let operators pass declared env vars (from env: or vault: refs) into native-CLI agent sessions](https://github.com/compozy/compozy/issues/828) <sub>issue, closed</sub>
 - `2026-10-19` **[compozy/compozy](https://github.com/compozy/compozy)** — [Desktop app denies the notifications permission, so system notifications can never be enabled](https://github.com/compozy/compozy/issues/819) <sub>issue, closed</sub>
-- `2026-10-19` **[compozy/compozy](https://github.com/compozy/compozy)** — [Render Mermaid diagrams in session chat Markdown](https://github.com/compozy/compozy/issues/818) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
