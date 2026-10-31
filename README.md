@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-10-29` **[compozy/compozy](https://github.com/compozy/compozy)** — [Clarify dock: preserve line breaks in questions and make the dock collapsible with a bounded h…](https://github.com/compozy/compozy/issues/1045) <sub>issue, open</sub>
-- `2026-10-28` **[compozy/compozy](https://github.com/compozy/compozy)** — [Archive (hide) projects without losing history, and remove projects from the UI](https://github.com/compozy/compozy/issues/1005) <sub>issue, closed</sub>
-- `2026-10-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [Mermaid diagrams in chat: bounded inline size, stable layout, fullscreen and zoom controls](https://github.com/compozy/compozy/issues/981) <sub>issue, closed</sub>
+- `2026-10-31` **[compozy/compozy](https://github.com/compozy/compozy)** — [MCP OAuth scope mismatch: login --scope workspace stores user, mcp_status reports needs_login…](https://github.com/compozy/compozy/issues/1072) <sub>issue, closed</sub>
+- `2026-10-31` **[compozy/compozy](https://github.com/compozy/compozy)** — [Stdio MCP servers are spawned per call (no session reuse): slow servers time out, respawn stor…](https://github.com/compozy/compozy/issues/1068) <sub>issue, closed</sub>
+- `2026-10-30` **[compozy/compozy](https://github.com/compozy/compozy)** — [Archive project from the top-bar project submenu](https://github.com/compozy/compozy/issues/1057) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
