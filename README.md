@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-11-03` **[compozy/compozy](https://github.com/compozy/compozy)** — [Open file paths from the transcript in the user's editor (desktop app)](https://github.com/compozy/compozy/issues/1167) <sub>issue, open</sub>
-- `2026-11-03` **[compozy/compozy](https://github.com/compozy/compozy)** — [Mouse wheel stops scrolling the transcript while the pointer is over a Mermaid diagram](https://github.com/compozy/compozy/issues/1164) <sub>issue, open</sub>
-- `2026-11-01` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: deliver MCP server tools to sessions](https://github.com/compozy/compozy/pull/1139) <sub>PR, closed</sub>
+- `2026-11-04` **[compozy/compozy](https://github.com/compozy/compozy)** — [Settings shows "Sign-in unverified" for every native_cli provider even when its status command…](https://github.com/compozy/compozy/issues/1249) <sub>issue, closed</sub>
+- `2026-11-04` **[compozy/compozy](https://github.com/compozy/compozy)** — [Provider usage reports no_collector for custom providers that set runtime_provider (second Cla…](https://github.com/compozy/compozy/issues/1248) <sub>issue, closed</sub>
+- `2026-11-03` **[compozy/compozy](https://github.com/compozy/compozy)** — [Sessions mid-turn are recorded as crashed when an OS logout or app quit stops the daemon](https://github.com/compozy/compozy/issues/1243) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
