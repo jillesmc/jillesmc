@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
+- `2026-11-07` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: let operators disable providers they don't use](https://github.com/compozy/compozy/pull/1372) <sub>PR, open</sub>
+- `2026-11-07` **[compozy/compozy](https://github.com/compozy/compozy)** — [Optional OpenTelemetry (OTLP) trace and metric export from the daemon](https://github.com/compozy/compozy/issues/1361) <sub>issue, open</sub>
 - `2026-11-06` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: let operators disable providers they don't use (hidden everywhere, not launchable)](https://github.com/compozy/compozy/issues/1326) <sub>issue, open</sub>
-- `2026-11-05` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: back off provider usage 429s, collect each account once, and re-verify native sign-in aft…](https://github.com/compozy/compozy/pull/1307) <sub>PR, merged</sub>
-- `2026-11-05` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: back off provider usage 429s, collect each account once, and re-verify native sign-in aft…](https://github.com/compozy/compozy/issues/1302) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
