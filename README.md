@@ -18,13 +18,12 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-11-11` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: optional OpenTelemetry trace and metric export](https://github.com/compozy/compozy/pull/1552) <sub>PR, open</sub>
-- `2026-11-09` **[compozy/compozy](https://github.com/compozy/compozy)** — [Include profile-only custom providers and their enabled state in the provider inventory](https://github.com/compozy/compozy/issues/1434) <sub>issue, closed</sub>
-- `2026-11-09` **[compozy/compozy](https://github.com/compozy/compozy)** — [Session picker: mark the session's selected provider as Disabled after it is disabled](https://github.com/compozy/compozy/issues/1422) <sub>issue, closed</sub>
+- `2026-11-12` **[compozy/compozy](https://github.com/compozy/compozy)** — [Measure OTel export overhead with the OTLP receiver in a separate process](https://github.com/compozy/compozy/issues/1622) <sub>issue, closed</sub>
+- `2026-11-12` **[compozy/compozy](https://github.com/compozy/compozy)** — [cy-create-spec: offer to start spec_conductor once _slices.md is approved](https://github.com/compozy/compozy/issues/1612) <sub>issue, open</sub>
+- `2026-11-11` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: optional OpenTelemetry trace and metric export](https://github.com/compozy/compozy/pull/1552) <sub>PR, merged</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 - `2025-03-11` **[openvinotoolkit/sd-webui-openvino](https://github.com/openvinotoolkit/sd-webui-openvino)** — [Questions About sd-webui-openvino Extension Compatibility and Usage](https://github.com/openvinotoolkit/sd-webui-openvino/issues/7) <sub>issue, open</sub>
 - `2025-03-06` **[RVR06/cornifer](https://github.com/RVR06/cornifer)** — [TypeError: Cannot read properties of undefined (reading 'join')](https://github.com/RVR06/cornifer/issues/13) <sub>issue, closed</sub>
-- `2024-11-04` **[structurizr/onpremises](https://github.com/structurizr/onpremises)** — [Saml authentication stopped to work in version v2024-11-04](https://github.com/structurizr/onpremises/issues/138) <sub>issue, closed</sub>
 <!-- oss ends -->
 
 ## Contributions
