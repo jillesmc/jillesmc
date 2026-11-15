@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
+- `2026-11-14` **[compozy/compozy](https://github.com/compozy/compozy)** — [Terminal opened from a transcript under All projects lands on the launcher and cannot be closed](https://github.com/compozy/compozy/issues/1712) <sub>issue, closed</sub>
 - `2026-11-14` **[compozy/compozy](https://github.com/compozy/compozy)** — [provider list keeps a stale needs_login verdict after the provider signs in outside CompozyOS](https://github.com/compozy/compozy/issues/1695) <sub>issue, closed</sub>
 - `2026-11-13` **[compozy/compozy](https://github.com/compozy/compozy)** — [Large terminal quote in the composer has no height cap, scroll or collapse — fills the screen…](https://github.com/compozy/compozy/issues/1680) <sub>issue, closed</sub>
-- `2026-11-12` **[compozy/compozy](https://github.com/compozy/compozy)** — [Measure OTel export overhead with the OTLP receiver in a separate process](https://github.com/compozy/compozy/issues/1622) <sub>issue, closed</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 <!-- oss ends -->
 
