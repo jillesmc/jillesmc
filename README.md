@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [Allow fallback_chain in [agents.overrides.<agent>] for packaged agents](https://github.com/compozy/compozy/issues/1928) <sub>issue, open</sub>
-- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [Notification clicks reuse an existing Session window instead of opening a tab per session](https://github.com/compozy/compozy/issues/1927) <sub>issue, open</sub>
-- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [Put running-activity indicators in the leading column for every sidebar row type](https://github.com/compozy/compozy/issues/1926) <sub>issue, open</sub>
+- `2026-11-22` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: let extension inputs reach the extension process and add setup](https://github.com/compozy/compozy/pull/1956) <sub>PR, open</sub>
+- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: allow fallback_chain in CompozyOS agent overrides](https://github.com/compozy/compozy/pull/1941) <sub>PR, merged</sub>
+- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: archive stopped session threads in one action](https://github.com/compozy/compozy/pull/1940) <sub>PR, open</sub>
 - `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
 <!-- oss ends -->
 
