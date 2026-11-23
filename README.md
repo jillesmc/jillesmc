@@ -18,10 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-11-22` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: let extension inputs reach the extension process and add setup](https://github.com/compozy/compozy/pull/1956) <sub>PR, open</sub>
-- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: allow fallback_chain in CompozyOS agent overrides](https://github.com/compozy/compozy/pull/1941) <sub>PR, merged</sub>
-- `2026-11-21` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: archive stopped session threads in one action](https://github.com/compozy/compozy/pull/1940) <sub>PR, open</sub>
-- `2026-07-29` **[kcchien/claude-code-statusline](https://github.com/kcchien/claude-code-statusline)** — [Fix status line going blank on Linux, branch glyph overlap, and cache scoping](https://github.com/kcchien/claude-code-statusline/pull/9) <sub>PR, open</sub>
+- `2026-11-23` **[compozy/compozy](https://github.com/compozy/compozy)** — [refactor: extract the directory publication primitive into internal/dirpublish](https://github.com/compozy/compozy/pull/1976) <sub>PR, open</sub>
+- `2026-11-23` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: auto-approve evidence-backed CompozyOS skill lessons with a daily cap](https://github.com/compozy/compozy/pull/1968) <sub>PR, open</sub>
+- `2026-11-23` **[compozy/compozy](https://github.com/compozy/compozy)** — [feat: propose edits to CompozyOS skills and revert approvals](https://github.com/compozy/compozy/pull/1967) <sub>PR, open</sub>
 <!-- oss ends -->
 
 ## Contributions
