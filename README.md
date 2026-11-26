@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
-- `2026-11-25` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: show needs-you on collapsed session folders](https://github.com/compozy/compozy/pull/1997) <sub>PR, open</sub>
-- `2026-11-25` **[compozy/compozy](https://github.com/compozy/compozy)** — [Child session shows Needs you after a normal end_turn when its creator already monitors it](https://github.com/compozy/compozy/issues/1996) <sub>issue, open</sub>
-- `2026-11-23` **[compozy/compozy](https://github.com/compozy/compozy)** — [refactor: extract the directory publication primitive into internal/dirpublish](https://github.com/compozy/compozy/pull/1976) <sub>PR, open</sub>
+- `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: request resource-advertised offline_access and accept narrower MCP OAuth grants](https://github.com/compozy/compozy/pull/2008) <sub>PR, merged</sub>
+- `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [MCP OAuth login to Atlassian fails: offline_access never requested and partial scope grants re…](https://github.com/compozy/compozy/issues/2007) <sub>issue, closed</sub>
+- `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: launch the GitHub MCP server with its stdio subcommand](https://github.com/compozy/compozy/pull/2005) <sub>PR, merged</sub>
 <!-- oss ends -->
 
 ## Contributions
