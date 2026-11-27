@@ -18,9 +18,9 @@ the content stays where it belongs.
 ## Open source
 
 <!-- oss starts -->
+- `2026-11-27` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: resume always-on mains after a restart when their last turn was a peer reply](https://github.com/compozy/compozy/pull/2033) <sub>PR, merged</sub>
+- `2026-11-27` **[compozy/compozy](https://github.com/compozy/compozy)** — [Always-on mains never resume after a daemon restart when their last turn was a reply-watch inp…](https://github.com/compozy/compozy/issues/2032) <sub>issue, closed</sub>
 - `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: request resource-advertised offline_access and accept narrower MCP OAuth grants](https://github.com/compozy/compozy/pull/2008) <sub>PR, merged</sub>
-- `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [MCP OAuth login to Atlassian fails: offline_access never requested and partial scope grants re…](https://github.com/compozy/compozy/issues/2007) <sub>issue, closed</sub>
-- `2026-11-26` **[compozy/compozy](https://github.com/compozy/compozy)** — [fix: launch the GitHub MCP server with its stdio subcommand](https://github.com/compozy/compozy/pull/2005) <sub>PR, merged</sub>
 <!-- oss ends -->
 
 ## Contributions
